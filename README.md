@@ -75,8 +75,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muzzammil31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil31&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+<img height="170" src="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages" />
 
 <br/>
 
