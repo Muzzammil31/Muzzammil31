@@ -90,7 +90,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil31&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-90d.svg" alt="GitHub contribution activity for the last 90 days" />
+
+<br/>
+
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-30d.svg">30 days</a> •
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-90d.svg">90 days</a> •
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-365d.svg">365 days</a>
 
 </div>
 
