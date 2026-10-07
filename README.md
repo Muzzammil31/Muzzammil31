@@ -1,85 +1,77 @@
 <div align="center">
 
-# Muzzammil Hussain
+# 👋 Hi, I'm Muzammil Hussain
 
-### AI Engineer | Generative AI | LLMs | RAG | AI Agents | AI Automation | Python | NLP | Machine Learning
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=AI+Engineer;AI+Automation+Intern;Machine+Learning+%26+Deep+Learning;LLMs+%7C+RAG+%7C+Agentic+AI;Computer+Vision+%7C+Intelligent+Systems" alt="Typing SVG" />
 
-**I build practical AI systems, intelligent automation, machine learning applications, LLM-powered tools, and computer vision solutions.**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Muzzammil31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Muzzammil31?label=Followers&style=flat&logo=github" alt="GitHub followers" />
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/muzzammil-hussain-864752246/) • [AI Portfolio](https://github.com/Muzzammil31/muzammil-ai-portfolio) • [Email](mailto:muzzammilh318@gmail.com)
+**AI Engineer focused on practical AI systems, intelligent automation, machine learning, LLM applications and computer vision.**
+
+[LinkedIn](https://www.linkedin.com/in/muzzammil-hussain-864752246/) • [Portfolio Repository](https://github.com/Muzzammil31/muzammil-ai-portfolio) • [Email](mailto:muzzammilh318@gmail.com)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I am a BS Artificial Intelligence graduate focused on hands-on AI engineering. My work spans **machine learning, deep learning, NLP, LLM applications, Retrieval-Augmented Generation (RAG), agentic AI, AI automation, and computer vision**.
-
-I prefer building complete, usable systems rather than isolated experiments. My current engineering focus includes conversational AI, retrieval-based assistants, voice and interview systems, automation workflows, and production-oriented AI applications.
-
-Some newer client and production work is kept in private repositories.
-
----
-
-## Core AI Engineering Skills
-
-- **Generative AI:** LLM applications, RAG, prompt-driven systems, agentic AI
-- **AI Automation:** intelligent workflows, conversational systems, voice-based applications
-- **Machine Learning & Deep Learning:** Scikit-learn, TensorFlow/Keras, PyTorch
-- **NLP:** transformers, text generation, language applications, Hugging Face
-- **Computer Vision:** OpenCV, YOLOv8, MediaPipe/CV workflows
-- **Backend & APIs:** Python, FastAPI, Flask, Node.js/Express
-- **Data & Retrieval:** MySQL, SQLite, ChromaDB
-- **Deployment & Engineering:** Git/GitHub, Docker, REST APIs
+- 🎓 BS Artificial Intelligence
+- 💼 Currently working as an **AI Automation Intern**
+- 🤖 Building AI assistants, automation systems and intelligent applications
+- 🧠 Working with **Machine Learning, Deep Learning, LLMs, RAG and Agentic AI**
+- 👁 Interested in **Computer Vision, NLP and Multimodal AI**
+- 🔬 Research interest in practical AI systems for healthcare and real-world applications
+- 📚 I prefer learning concepts deeply, step by step, then applying them in working projects
 
 ---
 
-## Selected Public Projects
-
-| Project | Engineering Focus | Stack / Area |
-|---|---|---|
-| [**AI Portfolio**](https://github.com/Muzzammil31/muzammil-ai-portfolio) | AI-powered portfolio with backend, admin panel, structured project data, and chatbot functionality | Node.js, Express, SQLite, AI |
-| [**YOLOv8 Object Detector GUI**](https://github.com/Muzzammil31/yolov8-object-detector-gui) | Real-time desktop object detection with webcam/video/image input and interactive controls | Python, YOLOv8, OpenCV, Tkinter |
-| [**Neural Transfer System**](https://github.com/Muzzammil31/Neural-Transfer-system) | Neural style transfer project | Deep Learning |
-| [**AI Chess Bot**](https://github.com/Muzzammil31/AI-bot-chess-game) | AI-based chess game and decision-making system | Artificial Intelligence |
-| [**Language Translator**](https://github.com/Muzzammil31/Language-translator.py) | GUI-based language translation application | Python, NLP, Tkinter |
-| [**GPT-2**](https://github.com/Muzzammil31/GPT-2) | Transformer text-generation work | NLP, Transformers |
-
----
-
-## Current Engineering Focus
-
-```text
-Generative AI & LLM Applications
-Retrieval-Augmented Generation (RAG)
-AI Agents & Agentic Workflows
-AI Automation
-NLP & Conversational AI
-Production-Oriented Python AI Systems
-Computer Vision
-```
-
----
-
-## Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,nodejs,react,nextjs,mysql,sqlite,git,github,docker,vscode&perline=8" alt="AI engineering tech stack" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,flask,nodejs,react,nextjs,mysql,sqlite,git,github,docker,vscode&perline=8" alt="Tech stack" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG-0066CC?style=for-the-badge" alt="Retrieval-Augmented Generation" />
-<img src="https://img.shields.io/badge/AI%20Agents-6C63FF?style=for-the-badge" alt="AI Agents" />
+<img src="https://img.shields.io/badge/RAG-0066CC?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge" alt="Agentic AI" />
 
 </div>
 
 ---
 
-## GitHub Activity
+## 🚀 Featured Projects
+
+| Project | What it does | Main Area |
+|---|---|---|
+| [**AI Portfolio**](https://github.com/Muzzammil31/muzammil-ai-portfolio) | Personal portfolio with Node.js/Express backend, SQLite, admin panel and smart chatbot | AI + Full Stack |
+| [**YOLOv8 Object Detector GUI**](https://github.com/Muzzammil31/yolov8-object-detector-gui) | GUI-based object detection project using YOLOv8 | Computer Vision |
+| [**Neural Transfer System**](https://github.com/Muzzammil31/Neural-Transfer-system) | Deep learning based neural style transfer system | Deep Learning |
+| [**AI Chess Bot**](https://github.com/Muzzammil31/AI-bot-chess-game) | AI-based chess game and decision-making project | Artificial Intelligence |
+| [**GPT-2 Project**](https://github.com/Muzzammil31/GPT-2) | Work with transformer-based text generation | NLP / LLM |
+
+<details>
+<summary><b>🔎 More work and current focus</b></summary>
+<br/>
+
+- AI Interview systems and desktop assistants
+- AI automation workflows
+- Voice and conversational agents
+- Retrieval-Augmented Generation systems
+- Multimodal and healthcare AI research
+- Production-oriented AI applications
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -88,18 +80,64 @@ Computer Vision
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Muzzammil31&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Muzzammil31&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-### Connect
+<img src="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-90d.svg" alt="GitHub contribution activity for the last 90 days" />
 
-[LinkedIn](https://www.linkedin.com/in/muzzammil-hussain-864752246/) • [GitHub Portfolio](https://github.com/Muzzammil31/muzammil-ai-portfolio) • [Email](mailto:muzzammilh318@gmail.com)
+<br/>
 
-**AI Engineer building practical systems across LLMs, RAG, AI agents, automation, NLP, machine learning, and computer vision.**
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-30d.svg">30 days</a> •
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-90d.svg">90 days</a> •
+<a href="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/activity-assets/activity-365d.svg">365 days</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Muzzammil31/Muzzammil31/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+AI Automation      ████████████████████
+Machine Learning   ██████████████████░░
+LLM + RAG          ██████████████████░░
+Agentic AI         █████████████████░░░
+Computer Vision    ████████████████░░░░
+```
+
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+<a href="https://www.linkedin.com/in/muzzammil-hussain-864752246/"><img src="https://img.shields.io/badge/LinkedIn-Muzammil%20Hussain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:muzzammilh318@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Muzzammil31/muzammil-ai-portfolio"><img src="https://img.shields.io/badge/Portfolio-View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+**Building, learning and improving one practical AI system at a time.**
 
 </div>
